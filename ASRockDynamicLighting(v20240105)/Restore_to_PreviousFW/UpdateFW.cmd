@@ -1,0 +1,3 @@
+@ECHO OFF
+AsrISP.exe /I 0 /UPDATE MB /CHKFWVER 0x01000902 0x20220504
+REM timeout /t 3 /nobreak
